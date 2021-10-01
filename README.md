@@ -1,1 +1,1 @@
-# PasswordEditor
+# Менеджер паролей
